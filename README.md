@@ -1,7 +1,8 @@
 The HomotopyCategories package
 =========================
 
-version 24/07/2020.
+This package has been moved to [HigherHomologicalAlgebra](https://github.com/homalg-project/        
+HigherHomologicalAlgebra) repository together with other related packages.
 
 Introduction
 ------------
